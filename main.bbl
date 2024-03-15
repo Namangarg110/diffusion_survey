@@ -1,0 +1,3875 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Kingma2013}{article}{}
+    \name{author}{2}{}{%
+      {{hash=KDP}{%
+         family={Kingma},
+         familyi={K\bibinitperiod},
+         given={Diederik\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Welling},
+         familyi={W\bibinitperiod},
+         given={Max},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KDPWM1}
+    \strng{fullhash}{KDPWM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Auto-Encoding Variational Bayes}
+    \verb{url}
+    \verb http://arxiv.org/abs/1312.6114
+    \endverb
+    \field{volume}{abs/1312.6114}
+    \field{journaltitle}{CoRR}
+    \field{year}{2013}
+  \endentry
+
+  \entry{Goodfellow2014}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=GI}{%
+         family={Goodfellow},
+         familyi={G\bibinitperiod},
+         given={Ian},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=PAJ}{%
+         family={Pouget-Abadie},
+         familyi={P\bibinithyphendelim A\bibinitperiod},
+         given={Jean},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=MM}{%
+         family={Mirza},
+         familyi={M\bibinitperiod},
+         given={Mehdi},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=XB}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Bing},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WFD}{%
+         family={Warde-Farley},
+         familyi={W\bibinithyphendelim F\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=OS}{%
+         family={Ozair},
+         familyi={O\bibinitperiod},
+         given={Sherjil},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CA}{%
+         family={Courville},
+         familyi={C\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Bengio},
+         familyi={B\bibinitperiod},
+         given={Yoshua},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \name{editor}{5}{}{%
+      {{hash=GZ}{%
+         family={Ghahramani},
+         familyi={G\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Welling},
+         familyi={W\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CC}{%
+         family={Cortes},
+         familyi={C\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LN}{%
+         family={Lawrence},
+         familyi={L\bibinitperiod},
+         given={N.},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Weinberger},
+         familyi={W\bibinitperiod},
+         given={K.Q.},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {Curran Associates, Inc.}%
+    }
+    \strng{namehash}{GI+1}
+    \strng{fullhash}{GIPAJMMXBWFDOSCABY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Advances in Neural Information Processing Systems}
+    \field{title}{Generative Adversarial Nets}
+    \verb{url}
+    \verb https://proceedings.neurips.cc/paper_files/paper/2014/file/5ca3e9b122
+    \verb f61f8f06494c97b1afccf3-Paper.pdf
+    \endverb
+    \field{volume}{27}
+    \field{year}{2014}
+  \endentry
+
+  \entry{Sohl-Dickstein2015}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=SDJ}{%
+         family={Sohl-Dickstein},
+         familyi={S\bibinithyphendelim D\bibinitperiod},
+         given={Jascha},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Weiss},
+         familyi={W\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=MN}{%
+         family={Maheswaranathan},
+         familyi={M\bibinitperiod},
+         given={Niru},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Ganguli},
+         familyi={G\bibinitperiod},
+         given={Surya},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \name{editor}{2}{}{%
+      {{hash=BF}{%
+         family={Bach},
+         familyi={B\bibinitperiod},
+         given={Francis},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Blei},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {PMLR}%
+    }
+    \strng{namehash}{SDJ+1}
+    \strng{fullhash}{SDJWEMNGS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 32nd International Conference on Machine Learning (Proceedings of Machine Learning Research, Vol. 37)}
+    \field{pages}{2256\bibrangedash 2265}
+    \field{title}{Deep Unsupervised Learning using Nonequilibrium Thermodynamics}
+    \verb{url}
+    \verb https://proceedings.mlr.press/v37/sohl-dickstein15.html
+    \endverb
+    \list{location}{1}{%
+      {Lille, France}%
+    }
+    \field{year}{2015}
+  \endentry
+
+  \entry{DDPM}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HJ}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Ajay},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Abbeel},
+         familyi={A\bibinitperiod},
+         given={Pieter},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJJAAP1}
+    \strng{fullhash}{HJJAAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2006.11239
+    \endverb
+    \field{title}{Denoising Diffusion Probabilistic Models}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2006.11239
+    \endverb
+    \field{version}{2}
+    \field{journaltitle}{arXiv preprint arXiv:2006.11239}
+    \field{year}{2020}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{LDM}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RR}{%
+         family={Rombach},
+         familyi={R\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Blattmann},
+         familyi={B\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lorenz},
+         familyi={L\bibinitperiod},
+         given={Dominik},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=EP}{%
+         family={Esser},
+         familyi={E\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=OB}{%
+         family={Ommer},
+         familyi={O\bibinitperiod},
+         given={Bj{\"o}rn},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RR+1}
+    \strng{fullhash}{RRBALDEPOB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2112.10752
+    \endverb
+    \field{title}{High-Resolution Image Synthesis with Latent Diffusion Models}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2112.10752
+    \endverb
+    \field{version}{2}
+    \field{journaltitle}{arXiv preprint arXiv:2112.10752}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{CLIP}{article}{}
+    \name{author}{12}{}{%
+      {{hash=RA}{%
+         family={Radford},
+         familyi={R\bibinitperiod},
+         given={Alec},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KJW}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jong\bibnamedelima Wook},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hallacy},
+         familyi={H\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Ramesh},
+         familyi={R\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Goh},
+         familyi={G\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Agarwal},
+         familyi={A\bibinitperiod},
+         given={Sandhini},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sastry},
+         familyi={S\bibinitperiod},
+         given={Girish},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Askell},
+         familyi={A\bibinitperiod},
+         given={Amanda},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mishkin},
+         familyi={M\bibinitperiod},
+         given={Pamela},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=KG}{%
+         family={Krueger},
+         familyi={K\bibinitperiod},
+         given={Gretchen},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RA+1}
+    \strng{fullhash}{RAKJWHCRAGGASSGAAMPCJKGSI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2103.00020
+    \endverb
+    \field{title}{Learning Transferable Visual Models From Natural Language Supervision}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2103.00020
+    \endverb
+    \field{version}{1}
+    \field{journaltitle}{arXiv preprint arXiv:2103.00020}
+    \field{year}{2021}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{CFG}{article}{}
+    \name{author}{2}{}{%
+      {{hash=HJ}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Salimans},
+         familyi={S\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJST1}
+    \strng{fullhash}{HJST1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2207.12598
+    \endverb
+    \field{title}{Classifier-Free Diffusion Guidance}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2207.12598
+    \endverb
+    \field{version}{1}
+    \field{journaltitle}{arXiv preprint arXiv:2207.12598}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{ControlNet}{article}{}
+    \name{author}{3}{}{%
+      {{hash=ZL}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Lvmin},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rao},
+         familyi={R\bibinitperiod},
+         given={Anyi},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AM}{%
+         family={Agrawala},
+         familyi={A\bibinitperiod},
+         given={Maneesh},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZLRAAM1}
+    \strng{fullhash}{ZLRAAM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2302.05543
+    \endverb
+    \field{title}{Adding Conditional Control to Text-to-Image Diffusion Models}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2302.05543
+    \endverb
+    \field{version}{3}
+    \field{journaltitle}{arXiv preprint arXiv:2302.05543}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{kingma2021variational}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=KD}{%
+         family={Kingma},
+         familyi={K\bibinitperiod},
+         given={Diederik},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Salimans},
+         familyi={S\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Poole},
+         familyi={P\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Jonathan},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KD+1}
+    \strng{fullhash}{KDSTPBHJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Advances in Neural Information Processing Systems}
+    \field{pages}{21696\bibrangedash 21707}
+    \field{title}{Variational Diffusion Models}
+    \field{volume}{34}
+    \field{year}{2021}
+  \endentry
+
+  \entry{dhariwal2021diffusion}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=DP}{%
+         family={Dhariwal},
+         familyi={D\bibinitperiod},
+         given={Prafulla},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=NA}{%
+         family={Nichol},
+         familyi={N\bibinitperiod},
+         given={Alexander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DPNA1}
+    \strng{fullhash}{DPNA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Advances in Neural Information Processing Systems}
+    \field{pages}{8780\bibrangedash 8794}
+    \field{title}{Diffusion Models Beat GANs on Image Synthesis}
+    \field{volume}{34}
+    \field{year}{2021}
+  \endentry
+
+  \entry{glide}{misc}{}
+    \name{author}{8}{}{%
+      {{hash=NA}{%
+         family={Nichol},
+         familyi={N\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Dhariwal},
+         familyi={D\bibinitperiod},
+         given={Prafulla},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Ramesh},
+         familyi={R\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Shyam},
+         familyi={S\bibinitperiod},
+         given={Pranav},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mishkin},
+         familyi={M\bibinitperiod},
+         given={Pamela},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={McGrew},
+         familyi={M\bibinitperiod},
+         given={Bob},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NA+1}
+    \strng{fullhash}{NADPRASPMPMBSICM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{Available at SSRN}
+    \field{title}{GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models}
+    \field{year}{2022}
+  \endentry
+
+  \entry{stablediffusionv15}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=R}{%
+         family={{RunwayML}},
+         familyi={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{R1}
+    \strng{fullhash}{R1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://huggingface.co/runwayml/stable-diffusion-v1-5}}
+    \field{note}{Accessed: 2022-09-30}
+    \field{title}{Stable Diffusion v1.5 Model Card}
+    \field{year}{2022}
+  \endentry
+
+  \entry{saharia2022photorealistic}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=SC}{%
+         family={Saharia},
+         familyi={S\bibinitperiod},
+         given={Chitwan},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Saxena},
+         familyi={S\bibinitperiod},
+         given={Saurabh},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=LL}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Lala},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Whang},
+         familyi={W\bibinitperiod},
+         given={Jay},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=DE}{%
+         family={Denton},
+         familyi={D\bibinitperiod},
+         given={Emily},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=GSKS}{%
+         family={Ghasemipour},
+         familyi={G\bibinitperiod},
+         given={Seyed Kamyar\bibnamedelima Seyed},
+         giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=ABK}{%
+         family={Ayan},
+         familyi={A\bibinitperiod},
+         given={Burcu\bibnamedelima Karagol},
+         giveni={B\bibinitperiod\bibinitdelim K\bibinitperiod},
+      }}%
+      {{hash=MSS}{%
+         family={Mahdavi},
+         familyi={M\bibinitperiod},
+         given={S\bibnamedelima Sara},
+         giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+      {{hash=LRG}{%
+         family={Lopes},
+         familyi={L\bibinitperiod},
+         given={Rapha\bibnamedelima Gontijo},
+         giveni={R\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SC+1}
+    \strng{fullhash}{SCCWSSLLWJDEGSKSABKMSSLRG+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding}
+    \field{journaltitle}{arXiv preprint arXiv:2205.11487}
+    \field{year}{2022}
+  \endentry
+
+  \entry{openai2023dalle2}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={{OpenAI}},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{O1}
+    \strng{fullhash}{O1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://openai.com/product/dall-e-2}}
+    \field{note}{Accessed: 2023-09-30}
+    \field{title}{DALL·E 2}
+    \field{year}{2023}
+  \endentry
+
+  \entry{midjourney2023}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=M}{%
+         family={{Midjourney}},
+         familyi={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{M1}
+    \strng{fullhash}{M1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{howpublished}{\url{https://www.midjourney.com/}}
+    \field{note}{Accessed: 2023-09-30}
+    \field{title}{Midjourney}
+    \field{year}{2023}
+  \endentry
+
+  \entry{sdedit2021}{article}{}
+    \name{author}{7}{}{%
+      {{hash=MC}{%
+         family={Meng},
+         familyi={M\bibinitperiod},
+         given={Chenlin},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Yutong},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Yang},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Jiaming},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Jiajun},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZJY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Jun-Yan},
+         giveni={J\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Ermon},
+         familyi={E\bibinitperiod},
+         given={Stefano},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MC+1}
+    \strng{fullhash}{MCHYSYSJWJZJYES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{SDedit: Guided Image Synthesis and Editing with Stochastic Differential Equations}
+    \field{journaltitle}{International Conference on Learning Representations}
+    \field{year}{2021}
+  \endentry
+
+  \entry{blended2022}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AO}{%
+         family={Avrahami},
+         familyi={A\bibinitperiod},
+         given={Omri},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lischinski},
+         familyi={L\bibinitperiod},
+         given={Dani},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Fried},
+         familyi={F\bibinitperiod},
+         given={Ohad},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AOLDFO1}
+    \strng{fullhash}{AOLDFO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{18208\bibrangedash 18218}
+    \field{title}{Blended Diffusion for Text-Driven Editing of Natural Images}
+    \field{journaltitle}{Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition}
+    \field{year}{2022}
+  \endentry
+
+  \entry{makeascene2022}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=GO}{%
+         family={Gafni},
+         familyi={G\bibinitperiod},
+         given={Oran},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Polyak},
+         familyi={P\bibinitperiod},
+         given={Adam},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AO}{%
+         family={Ashual},
+         familyi={A\bibinitperiod},
+         given={Oron},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=SS}{%
+         family={Sheynin},
+         familyi={S\bibinitperiod},
+         given={Shelly},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Parikh},
+         familyi={P\bibinitperiod},
+         given={Devi},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Taigman},
+         familyi={T\bibinitperiod},
+         given={Yaniv},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Springer}%
+    }
+    \strng{namehash}{GO+1}
+    \strng{fullhash}{GOPAAOSSPDTY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{European Conference on Computer Vision (ECCV)}
+    \field{pages}{89\bibrangedash 106}
+    \field{title}{Make-A-Scene: Scene-Based Text-to-Image Generation with Human Priors}
+    \field{year}{2022}
+  \endentry
+
+  \entry{spatext2022}{article}{}
+    \name{author}{9}{}{%
+      {{hash=AO}{%
+         family={Avrahami},
+         familyi={A\bibinitperiod},
+         given={Omri},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hayes},
+         familyi={H\bibinitperiod},
+         given={Thomas},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GO}{%
+         family={Gafni},
+         familyi={G\bibinitperiod},
+         given={Oran},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=GS}{%
+         family={Gupta},
+         familyi={G\bibinitperiod},
+         given={Sonal},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=TY}{%
+         family={Taigman},
+         familyi={T\bibinitperiod},
+         given={Yaniv},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Parikh},
+         familyi={P\bibinitperiod},
+         given={Devi},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lischinski},
+         familyi={L\bibinitperiod},
+         given={Dani},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Fried},
+         familyi={F\bibinitperiod},
+         given={Ohad},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=YX}{%
+         family={Yin},
+         familyi={Y\bibinitperiod},
+         given={Xi},
+         giveni={X\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AO+1}
+    \strng{fullhash}{AOHTGOGSTYPDLDFOYX1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Spatext: Spatio-Textual Representation for Controllable Image Generation}
+    \field{journaltitle}{arXiv preprint arXiv:2211.14305}
+    \field{year}{2022}
+  \endentry
+
+  \entry{gligen2023}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Yuheng},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LH}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Haotian},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WQ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Qingyang},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=MF}{%
+         family={Mu},
+         familyi={M\bibinitperiod},
+         given={Fangzhou},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=YJ}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Jianwei},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={Jianfeng},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Chunyuan},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LYJ}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Yong\bibnamedelima Jae},
+         giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LY+1}
+    \strng{fullhash}{LYLHWQMFYJGJLCLYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{GLIGEN: Open-Set Grounded Text-to-Image Generation}
+    \field{year}{2023}
+  \endentry
+
+  \entry{textualinversion2022}{article}{}
+    \name{author}{7}{}{%
+      {{hash=GR}{%
+         family={Gal},
+         familyi={G\bibinitperiod},
+         given={Rinon},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AY}{%
+         family={Alaluf},
+         familyi={A\bibinitperiod},
+         given={Yuval},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=AY}{%
+         family={Atzmon},
+         familyi={A\bibinitperiod},
+         given={Yuval},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PO}{%
+         family={Patashnik},
+         familyi={P\bibinitperiod},
+         given={Or},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=BAH}{%
+         family={Bermano},
+         familyi={B\bibinitperiod},
+         given={Amit\bibnamedelima H},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Chechik},
+         familyi={C\bibinitperiod},
+         given={Gal},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=COD}{%
+         family={Cohen-Or},
+         familyi={C\bibinithyphendelim O\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GR+1}
+    \strng{fullhash}{GRAYAYPOBAHCGCOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{An Image is Worth One Word: Personalizing Text-to-Image Generation Using Textual Inversion}
+    \field{journaltitle}{arXiv preprint arXiv:2208.01618}
+    \field{year}{2022}
+  \endentry
+
+  \entry{dreambooth2022}{article}{}
+    \name{author}{6}{}{%
+      {{hash=RN}{%
+         family={Ruiz},
+         familyi={R\bibinitperiod},
+         given={Nataniel},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Yuanzhen},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=JV}{%
+         family={Jampani},
+         familyi={J\bibinitperiod},
+         given={Varun},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pritch},
+         familyi={P\bibinitperiod},
+         given={Yael},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rubinstein},
+         familyi={R\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Aberman},
+         familyi={A\bibinitperiod},
+         given={Kfir},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RN+1}
+    \strng{fullhash}{RNLYJVPYRMAK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation}
+    \field{journaltitle}{arXiv preprint arXiv:2208.12242}
+    \field{year}{2022}
+  \endentry
+
+  \entry{promptedit2022}{article}{}
+    \name{author}{3}{}{%
+      {{hash=BT}{%
+         family={Brooks},
+         familyi={B\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=HA}{%
+         family={Holynski},
+         familyi={H\bibinitperiod},
+         given={Aleksander},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=EAA}{%
+         family={Efros},
+         familyi={E\bibinitperiod},
+         given={Alexei\bibnamedelima A},
+         giveni={A\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BTHAEAA1}
+    \strng{fullhash}{BTHAEAA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{InstructPix2Pix: Learning to Follow Image Editing Instructions}
+    \field{journaltitle}{arXiv preprint arXiv:2211.09800}
+    \field{year}{2022}
+  \endentry
+
+  \entry{dreambooth}{article}{}
+    \name{author}{6}{}{%
+      {{hash=RN}{%
+         family={Ruiz},
+         familyi={R\bibinitperiod},
+         given={Nataniel},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Yuanzhen},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=JV}{%
+         family={Jampani},
+         familyi={J\bibinitperiod},
+         given={Varun},
+         giveni={V\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pritch},
+         familyi={P\bibinitperiod},
+         given={Yael},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=RM}{%
+         family={Rubinstein},
+         familyi={R\bibinitperiod},
+         given={Michael},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Aberman},
+         familyi={A\bibinitperiod},
+         given={Kfir},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RN+1}
+    \strng{fullhash}{RNLYJVPYRMAK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2208.12242
+    \endverb
+    \field{title}{DreamBooth: Fine Tuning Text-to-Image Diffusion Models for Subject-Driven Generation}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2208.12242
+    \endverb
+    \field{version}{2}
+    \field{journaltitle}{arXiv preprint arXiv:2208.12242}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{sketchdiffusion2022}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=VA}{%
+         family={Voynov},
+         familyi={V\bibinitperiod},
+         given={Andrey},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Abernan},
+         familyi={A\bibinitperiod},
+         given={Kfir},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=COD}{%
+         family={Cohen-Or},
+         familyi={C\bibinithyphendelim O\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{VAAKCOD1}
+    \strng{fullhash}{VAAKCOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Sketch-Guided Text-to-Image Diffusion Models}
+    \field{year}{2022}
+  \endentry
+
+  \entry{multidiffusion2023}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BTO}{%
+         family={Bar-Tal},
+         familyi={B\bibinithyphendelim T\bibinitperiod},
+         given={Omer},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yariv},
+         familyi={Y\bibinitperiod},
+         given={Lior},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Lipman},
+         familyi={L\bibinitperiod},
+         given={Yaron},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DT}{%
+         family={Dekel},
+         familyi={D\bibinitperiod},
+         given={Tali},
+         giveni={T\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BTO+1}
+    \strng{fullhash}{BTOYLLYDT1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation}
+    \field{journaltitle}{arXiv preprint arXiv:2302.08113}
+    \field{year}{2023}
+  \endentry
+
+  \entry{textualInversion}{article}{}
+    \name{author}{7}{}{%
+      {{hash=GR}{%
+         family={Gal},
+         familyi={G\bibinitperiod},
+         given={Rinon},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=AY}{%
+         family={Alaluf},
+         familyi={A\bibinitperiod},
+         given={Yuval},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=AY}{%
+         family={Atzmon},
+         familyi={A\bibinitperiod},
+         given={Yuval},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PO}{%
+         family={Patashnik},
+         familyi={P\bibinitperiod},
+         given={Or},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=BAH}{%
+         family={Bermano},
+         familyi={B\bibinitperiod},
+         given={Amit\bibnamedelima H.},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Chechik},
+         familyi={C\bibinitperiod},
+         given={Gal},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=COD}{%
+         family={Cohen-Or},
+         familyi={C\bibinithyphendelim O\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GR+1}
+    \strng{fullhash}{GRAYAYPOBAHCGCOD2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2208.01618
+    \endverb
+    \field{title}{An Image is Worth One Word: Personalizing Text-to-Image Generation using Textual Inversion}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2208.01618
+    \endverb
+    \field{version}{1}
+    \field{journaltitle}{arXiv preprint arXiv:2208.01618}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{reVersion}{article}{}
+    \name{author}{5}{}{%
+      {{hash=HZ}{%
+         family={Huang},
+         familyi={H\bibinitperiod},
+         given={Ziqi},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Tianxing},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=JY}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Yuming},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CKC}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={Kelvin\bibnamedelima C.K.},
+         giveni={K\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Ziwei},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HZ+1}
+    \strng{fullhash}{HZWTJYCKCLZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2303.13495
+    \endverb
+    \field{title}{ReVersion: Diffusion-Based Relation Inversion from Images}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2303.13495
+    \endverb
+    \field{version}{1}
+    \field{journaltitle}{arXiv preprint arXiv:2303.13495}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{customDiffusion}{article}{}
+    \name{author}{5}{}{%
+      {{hash=KN}{%
+         family={Kumari},
+         familyi={K\bibinitperiod},
+         given={Nupur},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=ZB}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Bingliang},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=ZR}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=SE}{%
+         family={Shechtman},
+         familyi={S\bibinitperiod},
+         given={Eli},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=ZJY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Jun-Yan},
+         giveni={J\bibinithyphendelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{KN+1}
+    \strng{fullhash}{KNZBZRSEZJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2212.04488
+    \endverb
+    \field{title}{Multi-Concept Customization of Text-to-Image Diffusion}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2212.04488
+    \endverb
+    \field{version}{2}
+    \field{journaltitle}{arXiv preprint arXiv:2212.04488}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{sine}{article}{}
+    \name{author}{5}{}{%
+      {{hash=ZZ}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Zhixing},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Han},
+         familyi={H\bibinitperiod},
+         given={Ligong},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Ghosh},
+         familyi={G\bibinitperiod},
+         given={Arnab},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MD}{%
+         family={Metaxas},
+         familyi={M\bibinitperiod},
+         given={Dimitris},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=RJ}{%
+         family={Ren},
+         familyi={R\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZZ+1}
+    \strng{fullhash}{ZZHLGAMDRJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2212.04489
+    \endverb
+    \field{title}{SINE: SINgle Image Editing with Text-to-Image Diffusion Models}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2212.04489
+    \endverb
+    \field{version}{1}
+    \field{journaltitle}{arXiv preprint arXiv:2212.04489}
+    \field{year}{2022}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{breakAScene}{article}{}
+    \name{author}{5}{}{%
+      {{hash=AO}{%
+         family={Avrahami},
+         familyi={A\bibinitperiod},
+         given={Omri},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=AK}{%
+         family={Aberman},
+         familyi={A\bibinitperiod},
+         given={Kfir},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Fried},
+         familyi={F\bibinitperiod},
+         given={Ohad},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=COD}{%
+         family={Cohen-Or},
+         familyi={C\bibinithyphendelim O\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lischinski},
+         familyi={L\bibinitperiod},
+         given={Dani},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AO+1}
+    \strng{fullhash}{AOAKFOCODLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2305.16311
+    \endverb
+    \field{title}{Break-A-Scene: Extracting Multiple Concepts from a Single Image}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2305.16311
+    \endverb
+    \field{version}{2}
+    \field{journaltitle}{arXiv preprint arXiv:2305.16311}
+    \field{year}{2023}
+    \warn{\item Invalid format of field 'month'}
+  \endentry
+
+  \entry{25}{article}{}
+    \name{author}{8}{}{%
+      {{hash=NA}{%
+         family={Nichol},
+         familyi={N\bibinitperiod},
+         given={Alex},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Dhariwal},
+         familyi={D\bibinitperiod},
+         given={Prafulla},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Ramesh},
+         familyi={R\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=SP}{%
+         family={Shyam},
+         familyi={S\bibinitperiod},
+         given={Pranav},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mishkin},
+         familyi={M\bibinitperiod},
+         given={Pamela},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={McGrew},
+         familyi={M\bibinitperiod},
+         given={Bob},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SI}{%
+         family={Sutskever},
+         familyi={S\bibinitperiod},
+         given={Ilya},
+         giveni={I\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Mark},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NA+1}
+    \strng{fullhash}{NADPRASPMPMBSICM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{GLIDE: Towards Photorealistic Image Generation and Editing with Text-Guided Diffusion Models}
+    \field{journaltitle}{arXiv preprint arXiv:2112.10741}
+    \field{year}{2021}
+  \endentry
+
+  \entry{39}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=SC}{%
+         family={Schuhmann},
+         familyi={S\bibinitperiod},
+         given={Christoph},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BR}{%
+         family={Beaumont},
+         familyi={B\bibinitperiod},
+         given={Romain},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=VR}{%
+         family={Vencu},
+         familyi={V\bibinitperiod},
+         given={Richard},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GCW}{%
+         family={Gordon},
+         familyi={G\bibinitperiod},
+         given={Cade\bibnamedelima W},
+         giveni={C\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=WR}{%
+         family={Wightman},
+         familyi={W\bibinitperiod},
+         given={Ross},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=CM}{%
+         family={Cherti},
+         familyi={C\bibinitperiod},
+         given={Mehdi},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CT}{%
+         family={Coombes},
+         familyi={C\bibinitperiod},
+         given={Theo},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Katta},
+         familyi={K\bibinitperiod},
+         given={Aarush},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MC}{%
+         family={Mullis},
+         familyi={M\bibinitperiod},
+         given={Clayton},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WM}{%
+         family={Wortsman},
+         familyi={W\bibinitperiod},
+         given={Mitchell},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SC+2}
+    \strng{fullhash}{SCBRVRGCWWRCMCTKAMCWM+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{LAION-5B: An Open Large-Scale Dataset for Training Next Generation Image-Text Models}
+    \field{journaltitle}{Thirty-sixth Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+    \field{year}{2022}
+  \endentry
+
+  \entry{27}{article}{}
+    \name{author}{1}{}{%
+      {{hash=O}{%
+         family={OpenAI},
+         familyi={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{O2}
+    \strng{fullhash}{O2}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{DALL-E 2 Preview - Risks and Limitations}
+    \field{year}{2022}
+  \endentry
+
+  \entry{33}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RR}{%
+         family={Rombach},
+         familyi={R\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=EP}{%
+         family={Esser},
+         familyi={E\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RREP1}
+    \strng{fullhash}{RREP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Stable Diffusion V2 Model Card}
+    \field{year}{2022}
+  \endentry
+
+  \entry{26}{article}{}
+    \name{author}{1}{}{%
+      {{hash=OR}{%
+         family={O'Connor},
+         familyi={O\bibinitperiod},
+         given={Ryan},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OR1}
+    \strng{fullhash}{OR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Stable Diffusion 1 vs 2 - What You Need to Know}
+    \field{year}{2022}
+  \endentry
+
+  \entry{3}{inproceedings}{}
+    \name{author}{1}{}{%
+      {{hash=BP}{%
+         family={Bedapudi},
+         familyi={B\bibinitperiod},
+         given={Praneeth},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BP1}
+    \strng{fullhash}{BP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{2022}
+    \field{title}{NudeNet: Neural Nets for Nudity Detection and Censoring}
+    \field{year}{2022}
+  \endentry
+
+  \entry{21}{article}{}
+    \name{author}{1}{}{%
+      {{hash=LG}{%
+         family={Laborde},
+         familyi={L\bibinitperiod},
+         given={Gant},
+         giveni={G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LG1}
+    \strng{fullhash}{LG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{NSFW Detection Machine Learning Model}
+    \field{year}{2022}
+  \endentry
+
+  \entry{29}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RJ}{%
+         family={Rando},
+         familyi={R\bibinitperiod},
+         given={Javier},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=PD}{%
+         family={Paleka},
+         familyi={P\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lindner},
+         familyi={L\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=HL}{%
+         family={Heim},
+         familyi={H\bibinitperiod},
+         given={Lennard},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=TF}{%
+         family={Tramèr},
+         familyi={T\bibinitperiod},
+         given={Florian},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RJ+1}
+    \strng{fullhash}{RJPDLDHLTF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Red-Teaming the Stable Diffusion Safety Filter}
+    \field{journaltitle}{arXiv preprint arXiv:2210.04610}
+    \field{year}{2022}
+  \endentry
+
+  \entry{38}{article}{}
+    \name{author}{4}{}{%
+      {{hash=SP}{%
+         family={Schramowski},
+         familyi={S\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=BM}{%
+         family={Brack},
+         familyi={B\bibinitperiod},
+         given={Manuel},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Deiseroth},
+         familyi={D\bibinitperiod},
+         given={Björn},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kersting},
+         familyi={K\bibinitperiod},
+         given={Kristian},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SP+1}
+    \strng{fullhash}{SPBMDBKK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Safe Latent Diffusion: Mitigating Inappropriate Degeneration in Diffusion Models}
+    \field{journaltitle}{arXiv preprint arXiv:2211.05105}
+    \field{year}{2022}
+  \endentry
+
+  \entry{43}{article}{}
+    \name{author}{1}{}{%
+      {{hash=S}{%
+         family={SmithMano},
+         familyi={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{S1}
+    \strng{fullhash}{S1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Tutorial: How to Remove the Safety Filter in 5 Seconds}
+    \field{year}{2022}
+  \endentry
+
+  \entry{30}{article}{}
+    \name{author}{1}{}{%
+      {{hash=RR}{%
+         family={Rombach},
+         familyi={R\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RR1}
+    \strng{fullhash}{RR1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Stable Diffusion 2.0 Release}
+    \field{year}{2022}
+  \endentry
+
+  \entry{36}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SH}{%
+         family={Salman},
+         familyi={S\bibinitperiod},
+         given={Hadi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=KA}{%
+         family={Khaddaj},
+         familyi={K\bibinitperiod},
+         given={Alaa},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LG}{%
+         family={Leclerc},
+         familyi={L\bibinitperiod},
+         given={Guillaume},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=IA}{%
+         family={Ilyas},
+         familyi={I\bibinitperiod},
+         given={Andrew},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MA}{%
+         family={Madry},
+         familyi={M\bibinitperiod},
+         given={Aleksander},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SH+1}
+    \strng{fullhash}{SHKALGIAMA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Raising the Cost of Malicious AI-Powered Image Editing}
+    \field{journaltitle}{arXiv preprint arXiv:2302.06588}
+    \field{year}{2023}
+  \endentry
+
+  \entry{42}{article}{}
+    \name{author}{6}{}{%
+      {{hash=SS}{%
+         family={Shan},
+         familyi={S\bibinitperiod},
+         given={Shawn},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Cryan},
+         familyi={C\bibinitperiod},
+         given={Jenna},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WE}{%
+         family={Wenger},
+         familyi={W\bibinitperiod},
+         given={Emily},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=ZH}{%
+         family={Zheng},
+         familyi={Z\bibinitperiod},
+         given={Haitao},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HR}{%
+         family={Hanocka},
+         familyi={H\bibinitperiod},
+         given={Rana},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=ZBY}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Ben\bibnamedelima Y},
+         giveni={B\bibinitperiod\bibinitdelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SS+1}
+    \strng{fullhash}{SSCJWEZHHRZBY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{GLAZE: Protecting Artists from Style Mimicry by Text-to-Image Models}
+    \field{journaltitle}{arXiv preprint arXiv:2302.04222}
+    \field{year}{2023}
+  \endentry
+
+  \entry{7}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=DD}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Damai},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DL}{%
+         family={Dong},
+         familyi={D\bibinitperiod},
+         given={Li},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hao},
+         familyi={H\bibinitperiod},
+         given={Yaru},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SZ}{%
+         family={Sui},
+         familyi={S\bibinitperiod},
+         given={Zhifang},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CB}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={Baobao},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wei},
+         familyi={W\bibinitperiod},
+         given={Furu},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DD+1}
+    \strng{fullhash}{DDDLHYSZCBWF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)}
+    \field{pages}{8493\bibrangedash 8502}
+    \field{title}{Knowledge Neurons in Pretrained Transformers}
+    \field{year}{2022}
+  \endentry
+
+  \entry{23}{inproceedings}{}
+    \name{author}{4}{}{%
+      {{hash=MK}{%
+         family={Meng},
+         familyi={M\bibinitperiod},
+         given={Kevin},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bau},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AAJ}{%
+         family={Andonian},
+         familyi={A\bibinitperiod},
+         given={Alex\bibnamedelima J},
+         giveni={A\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=BY}{%
+         family={Belinkov},
+         familyi={B\bibinitperiod},
+         given={Yonatan},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MK+1}
+    \strng{fullhash}{MKBDAAJBY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Advances in Neural Information Processing Systems}
+    \field{title}{Locating and Editing Factual Associations in GPT}
+    \field{year}{2022}
+  \endentry
+
+  \entry{8}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=DCN}{%
+         family={De\bibnamedelima Cao},
+         familyi={D\bibinitperiod\bibinitdelim C\bibinitperiod},
+         given={Nicola},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=AW}{%
+         family={Aziz},
+         familyi={A\bibinitperiod},
+         given={Wilker},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=TI}{%
+         family={Titov},
+         familyi={T\bibinitperiod},
+         given={Ivan},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{DCNAWTI1}
+    \strng{fullhash}{DCNAWTI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing}
+    \field{pages}{6491\bibrangedash 6506}
+    \field{title}{Editing Factual Knowledge in Language Models}
+    \field{year}{2021}
+  \endentry
+
+  \entry{24}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=ME}{%
+         family={Mitchell},
+         familyi={M\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={Charles},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Bosselut},
+         familyi={B\bibinitperiod},
+         given={Antoine},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=FC}{%
+         family={Finn},
+         familyi={F\bibinitperiod},
+         given={Chelsea},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=MCD}{%
+         family={Manning},
+         familyi={M\bibinitperiod},
+         given={Christopher\bibnamedelima D},
+         giveni={C\bibinitperiod\bibinitdelim D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ME+1}
+    \strng{fullhash}{MELCBAFCMCD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{International Conference on Learning Representations}
+    \field{title}{Fast Model Editing at Scale}
+    \field{year}{2021}
+  \endentry
+
+  \entry{2}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=BD}{%
+         family={Bau},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=LS}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Steven},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=WT}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Tongzhou},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZJY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Jun-Yan},
+         giveni={J\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=TA}{%
+         family={Torralba},
+         familyi={T\bibinitperiod},
+         given={Antonio},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BD+1}
+    \strng{fullhash}{BDLSWTZJYTA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the European Conference on Computer Vision (ECCV)}
+    \field{title}{Rewriting a Deep Generative Model}
+    \field{year}{2020}
+  \endentry
+
+  \entry{14}{article}{}
+    \name{author}{6}{}{%
+      {{hash=GR}{%
+         family={Gal},
+         familyi={G\bibinitperiod},
+         given={Rinon},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=PO}{%
+         family={Patashnik},
+         familyi={P\bibinitperiod},
+         given={Or},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=MH}{%
+         family={Maron},
+         familyi={M\bibinitperiod},
+         given={Haggai},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=BAH}{%
+         family={Bermano},
+         familyi={B\bibinitperiod},
+         given={Amit\bibnamedelima H},
+         giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod},
+      }}%
+      {{hash=CG}{%
+         family={Chechik},
+         familyi={C\bibinitperiod},
+         given={Gal},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=COD}{%
+         family={Cohen-Or},
+         familyi={C\bibinithyphendelim O\bibinitperiod},
+         given={Daniel},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GR+1}
+    \strng{fullhash}{GRPOMHBAHCGCOD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{1\bibrangedash 13}
+    \field{title}{StyleGAN-NADA: CLIP-Guided Domain Adaptation of Image Generators}
+    \field{volume}{41}
+    \field{journaltitle}{ACM Transactions on Graphics (TOG)}
+    \field{year}{2022}
+  \endentry
+
+  \entry{46}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=WSY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Sheng-Yu},
+         giveni={S\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bau},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZJY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Jun-Yan},
+         giveni={J\bibinithyphendelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WSYBDZJY1}
+    \strng{fullhash}{WSYBDZJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the IEEE/CVF International Conference on Computer Vision}
+    \field{pages}{14050\bibrangedash 14060}
+    \field{title}{Sketch Your Own GAN}
+    \field{year}{2021}
+  \endentry
+
+  \entry{47}{article}{}
+    \name{author}{3}{}{%
+      {{hash=WSY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Sheng-Yu},
+         giveni={S\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=BD}{%
+         family={Bau},
+         familyi={B\bibinitperiod},
+         given={David},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=ZJY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Jun-Yan},
+         giveni={J\bibinithyphendelim Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WSYBDZJY1}
+    \strng{fullhash}{WSYBDZJY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{1\bibrangedash 16}
+    \field{title}{Rewriting Geometric Rules of a GAN}
+    \field{volume}{41}
+    \field{journaltitle}{ACM Transactions on Graphics (TOG)}
+    \field{year}{2022}
+  \endentry
+
+  \entry{zhang2023forgetmenot}{misc}{}
+    \name{author}{5}{}{%
+      {{hash=ZE}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Eric},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=WK}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=XX}{%
+         family={Xu},
+         familyi={X\bibinitperiod},
+         given={Xingqian},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Zhangyang},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=SH}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Humphrey},
+         giveni={H\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZE+1}
+    \strng{fullhash}{ZEWKXXWZSH1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2303.17591
+    \endverb
+    \verb{eprint}
+    \verb 2303.17591
+    \endverb
+    \field{note}{\url{https://doi.org/10.48550/arXiv.2303.17591}}
+    \field{title}{{Forget-Me-Not: Learning to Forget in Text-to-Image Diffusion Models}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2023}
+  \endentry
+
+  \entry{rombach2022highresolution}{article}{}
+    \name{author}{5}{}{%
+      {{hash=RR}{%
+         family={Rombach},
+         familyi={R\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Blattmann},
+         familyi={B\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lorenz},
+         familyi={L\bibinitperiod},
+         given={Dominik},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=EP}{%
+         family={Esser},
+         familyi={E\bibinitperiod},
+         given={Patrick},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=OB}{%
+         family={Ommer},
+         familyi={O\bibinitperiod},
+         given={Bj{\"o}rn},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RR+1}
+    \strng{fullhash}{RRBALDEPOB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{High-Resolution Image Synthesis with Latent Diffusion Models}
+    \field{journaltitle}{CVPR}
+    \field{year}{2022}
+  \endentry
+
+  \entry{gu2022vector}{inproceedings}{}
+    \name{author}{8}{}{%
+      {{hash=GS}{%
+         family={Gu},
+         familyi={G\bibinitperiod},
+         given={Shuyang},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Dong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=BJ}{%
+         family={Bao},
+         familyi={B\bibinitperiod},
+         given={Jianmin},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wen},
+         familyi={W\bibinitperiod},
+         given={Fang},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=ZB}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Bo},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Dongdong},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=YL}{%
+         family={Yuan},
+         familyi={Y\bibinitperiod},
+         given={Lu},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=GB}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={Baining},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GS+1}
+    \strng{fullhash}{GSCDBJWFZBCDYLGB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{CVPR}
+    \field{pages}{10696\bibrangedash 10706}
+    \field{title}{Vector quantized diffusion model for text-to-image synthesis}
+    \field{year}{2022}
+  \endentry
+
+  \entry{avrahami2022blended}{inproceedings}{}
+    \name{author}{3}{}{%
+      {{hash=AO}{%
+         family={Avrahami},
+         familyi={A\bibinitperiod},
+         given={Omri},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lischinski},
+         familyi={L\bibinitperiod},
+         given={Dani},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Fried},
+         familyi={F\bibinitperiod},
+         given={Ohad},
+         giveni={O\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AOLDFO1}
+    \strng{fullhash}{AOLDFO1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{CVPR}
+    \field{pages}{18208\bibrangedash 18218}
+    \field{title}{Blended diffusion for text-driven editing of natural images}
+    \field{year}{2022}
+  \endentry
+
+  \entry{radford2021learning}{article}{}
+    \true{moreauthor}
+    \true{morelabelname}
+    \name{author}{10}{}{%
+      {{hash=RA}{%
+         family={Radford},
+         familyi={R\bibinitperiod},
+         given={Alec},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KJW}{%
+         family={Kim},
+         familyi={K\bibinitperiod},
+         given={Jong\bibnamedelima Wook},
+         giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod},
+      }}%
+      {{hash=HC}{%
+         family={Hallacy},
+         familyi={H\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Ramesh},
+         familyi={R\bibinitperiod},
+         given={Aditya},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=GG}{%
+         family={Goh},
+         familyi={G\bibinitperiod},
+         given={Gabriel},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=AS}{%
+         family={Agarwal},
+         familyi={A\bibinitperiod},
+         given={Sandhini},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=SG}{%
+         family={Sastry},
+         familyi={S\bibinitperiod},
+         given={Girish},
+         giveni={G\bibinitperiod},
+      }}%
+      {{hash=AA}{%
+         family={Askell},
+         familyi={A\bibinitperiod},
+         given={Amanda},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=MP}{%
+         family={Mishkin},
+         familyi={M\bibinitperiod},
+         given={Pamela},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Clark},
+         familyi={C\bibinitperiod},
+         given={Jack},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RA+1}
+    \strng{fullhash}{RAKJWHCRAGGASSGAAMPCJ+1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{8748\bibrangedash 8763}
+    \field{title}{Learning Transferable Visual Models From Natural Language Supervision}
+    \field{volume}{139}
+    \field{journaltitle}{ICML}
+    \field{year}{2021}
+  \endentry
+
+  \entry{shi2022divae}{article}{}
+    \name{author}{5}{}{%
+      {{hash=SJ}{%
+         family={Shi},
+         familyi={S\bibinitperiod},
+         given={Jiahui},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Chengze},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=LJ}{%
+         family={Liang},
+         familyi={L\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=LX}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Xiaodan},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=DN}{%
+         family={Duan},
+         familyi={D\bibinitperiod},
+         given={Nan},
+         giveni={N\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SJ+1}
+    \strng{fullhash}{SJWCLJLXDN1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{DiVAE: Photorealistic Image Synthesis with Denoising Diffusion Decoder}
+    \field{journaltitle}{arXiv preprint arXiv:2206.00386}
+    \field{year}{2022}
+  \endentry
+
+  \entry{oord2017neural}{article}{}
+    \name{author}{3}{}{%
+      {{hash=vdOA}{%
+         prefix={van\bibnamedelima den},
+         prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+         family={Oord},
+         familyi={O\bibinitperiod},
+         given={Aaron},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=VO}{%
+         family={Vinyals},
+         familyi={V\bibinitperiod},
+         given={Oriol},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kavukcuoglu},
+         familyi={K\bibinitperiod},
+         given={Koray},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{OAvdVOKK1}
+    \strng{fullhash}{OAvdVOKK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{6309\bibrangedash 6318}
+    \field{title}{Neural Discrete Representation Learning}
+    \field{volume}{30}
+    \field{journaltitle}{NIPS}
+    \field{year}{2017}
+  \endentry
+
+  \entry{nichol2021improved}{article}{}
+    \name{author}{2}{}{%
+      {{hash=NAQ}{%
+         family={Nichol},
+         familyi={N\bibinitperiod},
+         given={Alexander\bibnamedelima Quinn},
+         giveni={A\bibinitperiod\bibinitdelim Q\bibinitperiod},
+      }}%
+      {{hash=DP}{%
+         family={Dhariwal},
+         familyi={D\bibinitperiod},
+         given={Prafulla},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{NAQDP1}
+    \strng{fullhash}{NAQDP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{8162\bibrangedash 8171}
+    \field{title}{Improved Denoising Diffusion Probabilistic Models}
+    \field{journaltitle}{ICML}
+    \field{year}{2021}
+  \endentry
+
+  \entry{blattmann2022retrieval}{article}{}
+    \name{author}{4}{}{%
+      {{hash=BA}{%
+         family={Blattmann},
+         familyi={B\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=RR}{%
+         family={Rombach},
+         familyi={R\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=OK}{%
+         family={Oktay},
+         familyi={O\bibinitperiod},
+         given={Kaan},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=OB}{%
+         family={Ommer},
+         familyi={O\bibinitperiod},
+         given={Bj{\"o}rn},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{BA+1}
+    \strng{fullhash}{BARROKOB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Retrieval-Augmented Diffusion Models}
+    \field{journaltitle}{arXiv preprint arXiv:2204.11824}
+    \field{year}{2022}
+  \endentry
+
+  \entry{rombach2022textguided}{article}{}
+    \name{author}{3}{}{%
+      {{hash=RR}{%
+         family={Rombach},
+         familyi={R\bibinitperiod},
+         given={Robin},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BA}{%
+         family={Blattmann},
+         familyi={B\bibinitperiod},
+         given={Andreas},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=OB}{%
+         family={Ommer},
+         familyi={O\bibinitperiod},
+         given={Bj{\"o}rn},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RRBAOB1}
+    \strng{fullhash}{RRBAOB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Text-Guided Synthesis of Artistic Images with Retrieval-Augmented Diffusion Models}
+    \field{journaltitle}{arXiv preprint arXiv:2207.13038}
+    \field{year}{2022}
+  \endentry
+
+  \entry{jiang2022text2human}{article}{}
+    \name{author}{6}{}{%
+      {{hash=JY}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Yining},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YS}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={Seunghwan},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=QH}{%
+         family={Qiu},
+         familyi={Q\bibinitperiod},
+         given={He},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Wei},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=LCC}{%
+         family={Loy},
+         familyi={L\bibinitperiod},
+         given={Chen\bibnamedelima Change},
+         giveni={C\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+      {{hash=LZ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Ziwei},
+         giveni={Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{JY+1}
+    \strng{fullhash}{JYYSQHWWLCCLZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{number}{4}
+    \field{pages}{1\bibrangedash 11}
+    \field{title}{Text2Human: Text-Driven Controllable Human Image Generation}
+    \field{volume}{41}
+    \field{journaltitle}{ACM Transactions on Graphics}
+    \field{year}{2022}
+  \endentry
+
+  \entry{reimers2019sentencebert}{article}{}
+    \name{author}{2}{}{%
+      {{hash=RN}{%
+         family={Reimers},
+         familyi={R\bibinitperiod},
+         given={Nils},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=GI}{%
+         family={Gurevych},
+         familyi={G\bibinitperiod},
+         given={Iryna},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{RNGI1}
+    \strng{fullhash}{RNGI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{pages}{3982\bibrangedash 3992}
+    \field{title}{Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks}
+    \field{journaltitle}{EMNLP}
+    \field{year}{2019}
+  \endentry
+
+  \entry{Saharia2022Palette}{misc}{}
+    \name{author}{8}{}{%
+      {{hash=SC}{%
+         family={Saharia},
+         familyi={S\bibinitperiod},
+         given={Chitwan},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={William},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Chang},
+         familyi={C\bibinitperiod},
+         given={Huiwen},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Lee},
+         familyi={L\bibinitperiod},
+         given={Chris},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=HJ}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={Junyanz},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Salimans},
+         familyi={S\bibinitperiod},
+         given={Tim},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=FDJ}{%
+         family={Fleet},
+         familyi={F\bibinitperiod},
+         given={David\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Norouzi},
+         familyi={N\bibinitperiod},
+         given={Mohammad},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SC+1}
+    \strng{fullhash}{SCCWCHLCHJSTFDJNM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 2204.02641
+    \endverb
+    \field{title}{{Palette: Image-to-image diffusion models}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Sasaki2021UNITDDPM}{misc}{}
+    \name{author}{3}{}{%
+      {{hash=SH}{%
+         family={Sasaki},
+         familyi={S\bibinitperiod},
+         given={Hiroshi},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WCG}{%
+         family={Willcocks},
+         familyi={W\bibinitperiod},
+         given={Chris\bibnamedelima G.},
+         giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+      {{hash=BTP}{%
+         family={Breckon},
+         familyi={B\bibinitperiod},
+         given={Toby\bibnamedelima P.},
+         giveni={T\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SHWCGBTP1}
+    \strng{fullhash}{SHWCGBTP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 2104.05358
+    \endverb
+    \field{title}{{UNIT-DDPM: Unpaired Image Translation with Denoising Diffusion Probabilistic Models}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Zhao2022EGSDE}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=ZM}{%
+         family={Zhao},
+         familyi={Z\bibinitperiod},
+         given={Mengyu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bao},
+         familyi={B\bibinitperiod},
+         given={Fangzhou},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Chongxuan},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=ZJ}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Jun},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZM+1}
+    \strng{fullhash}{ZMBFLCZJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 2207.06635
+    \endverb
+    \field{title}{{EGSDE: Unpaired Image-to-Image Translation via Energy-Guided Stochastic Differential Equations}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Wang2022Pretraining}{misc}{}
+    \name{author}{7}{}{%
+      {{hash=WT}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Tinghui},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZT}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Tao},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=ZB}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Bo},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=OH}{%
+         family={Ouyang},
+         familyi={O\bibinitperiod},
+         given={Han},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CD}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Dingcheng},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=CQ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Qifeng},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=WF}{%
+         family={Wen},
+         familyi={W\bibinitperiod},
+         given={Fang},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WT+1}
+    \strng{fullhash}{WTZTZBOHCDCQWF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 2205.12952
+    \endverb
+    \field{title}{{Pretraining is All You Need for Image-to-Image Translation}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Li2022VQBB}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=LB}{%
+         family={Li},
+         familyi={L\bibinitperiod},
+         given={Baoyang},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=XK}{%
+         family={Xue},
+         familyi={X\bibinitperiod},
+         given={Kai},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=LB}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Bingyang},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=LYJ}{%
+         family={Liu},
+         familyi={L\bibinitperiod},
+         given={Yong-Jin},
+         giveni={Y\bibinithyphendelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{LB+1}
+    \strng{fullhash}{LBXKLBLYJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 2205.07680
+    \endverb
+    \field{title}{{VQBB: Image-to-image Translation with Vector Quantized Brownian Bridge}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Wolleb2022MultiTask}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=WJ}{%
+         family={Wolleb},
+         familyi={W\bibinitperiod},
+         given={Janis},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=SR}{%
+         family={Sandkühler},
+         familyi={S\bibinitperiod},
+         given={Raphael},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=BF}{%
+         family={Bieder},
+         familyi={B\bibinitperiod},
+         given={Fabian},
+         giveni={F\bibinitperiod},
+      }}%
+      {{hash=CPC}{%
+         family={Cattin},
+         familyi={C\bibinitperiod},
+         given={Philippe\bibnamedelima C.},
+         giveni={P\bibinitperiod\bibinitdelim C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJ+1}
+    \strng{fullhash}{WJSRBFCPC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{eprint}
+    \verb 2204.02641
+    \endverb
+    \field{title}{{The Swiss Army Knife for Image-to-Image Translation: Multi-Task Diffusion Models}}
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Meng2021SDEdit}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=MC}{%
+         family={Meng},
+         familyi={M\bibinitperiod},
+         given={Chong},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Yang},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={Jiaming},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Jian},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZJY}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={Jun-Yan},
+         giveni={J\bibinithyphendelim Y\bibinitperiod},
+      }}%
+      {{hash=ES}{%
+         family={Ermon},
+         familyi={E\bibinitperiod},
+         given={Stefano},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MC+2}
+    \strng{fullhash}{MCSYSJWJZJYES1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{Proceedings of the International Conference on Learning Representations (ICLR)}
+    \field{title}{SDEdit: Guided Image Synthesis and Editing with Stochastic Differential Equations}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Avrahami2022BlendedLatent}{article}{}
+    \name{author}{3}{}{%
+      {{hash=AO}{%
+         family={Avrahami},
+         familyi={A\bibinitperiod},
+         given={Omri},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=FO}{%
+         family={Fried},
+         familyi={F\bibinitperiod},
+         given={Ohad},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lischinski},
+         familyi={L\bibinitperiod},
+         given={Dani},
+         giveni={D\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{AOFOLD1}
+    \strng{fullhash}{AOFOLD1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Blended Latent Diffusion}
+    \field{journaltitle}{arXiv preprint arXiv:2206.02779}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Singer2023MakeAV}{inproceedings}{}
+    \name{author}{10}{}{%
+      {{hash=SU}{%
+         family={Singer},
+         familyi={S\bibinitperiod},
+         given={U.},
+         giveni={U\bibinitperiod},
+      }}%
+      {{hash=PA}{%
+         family={Polyak},
+         familyi={P\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=HT}{%
+         family={Hayes},
+         familyi={H\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=YX}{%
+         family={Yin},
+         familyi={Y\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=AJ}{%
+         family={An},
+         familyi={A\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZS}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={S.},
+         giveni={S\bibinitperiod},
+      }}%
+      {{hash=HQ}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=AO}{%
+         family={Ashual},
+         familyi={A\bibinitperiod},
+         given={O.},
+         giveni={O\bibinitperiod},
+      }}%
+      {{hash=eaOG}{%
+         prefix={et},
+         prefixi={e\bibinitperiod},
+         family={al.},
+         familyi={a\bibinitperiod},
+         given={O.\bibnamedelima Gafni},
+         giveni={O\bibinitperiod\bibinitdelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{SU+1}
+    \strng{fullhash}{SUPAHTYXAJZSHQYHAOaOGe1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{ICLR}
+    \field{title}{Make-a-video: Text-to-video generation without text-video data}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Ho2022ImagenVH}{article}{}
+    \name{author}{10}{}{%
+      {{hash=HJ}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SC}{%
+         family={Saharia},
+         familyi={S\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=WJ}{%
+         family={Whang},
+         familyi={W\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GR}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={R.},
+         giveni={R\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gritsenko},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=KDP}{%
+         family={Kingma},
+         familyi={K\bibinitperiod},
+         given={D.\bibnamedelima P.},
+         giveni={D\bibinitperiod\bibinitdelim P\bibinitperiod},
+      }}%
+      {{hash=PB}{%
+         family={Poole},
+         familyi={P\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Norouzi},
+         familyi={N\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=eaDJF}{%
+         prefix={et},
+         prefixi={e\bibinitperiod},
+         family={al.},
+         familyi={a\bibinitperiod},
+         given={D.\bibnamedelima J.\bibnamedelima Fleet},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim F\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJCWSCWJGRGAKDPPBNMaDJFe1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Imagen video: High definition video generation with diffusion models}
+    \field{journaltitle}{arXiv:2210.02303}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Xing2023SimdaSA}{article}{}
+    \name{author}{5}{}{%
+      {{hash=XZ}{%
+         family={Xing},
+         familyi={X\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=DQ}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={Q.},
+         giveni={Q\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WZ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=JYG}{%
+         family={Jiang},
+         familyi={J\bibinitperiod},
+         given={Y.-G.},
+         giveni={Y\bibinithyphendelim G\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{XZ+1}
+    \strng{fullhash}{XZDQHHWZJYG1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Simda: Simple diffusion adapter for efficient video generation}
+    \field{journaltitle}{arXiv:2308.09710}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Ho2022VideoDM}{inproceedings}{}
+    \name{author}{6}{}{%
+      {{hash=HJ}{%
+         family={Ho},
+         familyi={H\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ST}{%
+         family={Salimans},
+         familyi={S\bibinitperiod},
+         given={T.},
+         giveni={T\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Gritsenko},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=CW}{%
+         family={Chan},
+         familyi={C\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=NM}{%
+         family={Norouzi},
+         familyi={N\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=FDJ}{%
+         family={Fleet},
+         familyi={F\bibinitperiod},
+         given={D.\bibnamedelima J.},
+         giveni={D\bibinitperiod\bibinitdelim J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HJ+1}
+    \strng{fullhash}{HJSTGACWNMFDJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{NeurIPS}
+    \field{title}{Video diffusion models}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Hu2023LamdLV}{article}{}
+    \name{author}{3}{}{%
+      {{hash=HY}{%
+         family={Hu},
+         familyi={H\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=CZ}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=LC}{%
+         family={Luo},
+         familyi={L\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HYCZLC1}
+    \strng{fullhash}{HYCZLC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Lamd: Latent motion diffusion for video generation}
+    \field{journaltitle}{arXiv:2304.11603}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Mei2023VidmVI}{inproceedings}{}
+    \name{author}{2}{}{%
+      {{hash=MK}{%
+         family={Mei},
+         familyi={M\bibinitperiod},
+         given={K.},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=PV}{%
+         family={Patel},
+         familyi={P\bibinitperiod},
+         given={V.},
+         giveni={V\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{MKPV1}
+    \strng{fullhash}{MKPV1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{AAAI}
+    \field{title}{Vidm: Video implicit diffusion models}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Wu2023TuneAV}{article}{}
+    \name{author}{9}{}{%
+      {{hash=WJZ}{%
+         family={Wu},
+         familyi={W\bibinitperiod},
+         given={J.\bibnamedelima Z.},
+         giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Ge},
+         familyi={G\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=LW}{%
+         family={Lei},
+         familyi={L\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Gu},
+         familyi={G\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HW}{%
+         family={Hsu},
+         familyi={H\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=SY}{%
+         family={Shan},
+         familyi={S\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=QX}{%
+         family={Qie},
+         familyi={Q\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=SMZ}{%
+         family={Shou},
+         familyi={S\bibinitperiod},
+         given={M.\bibnamedelima Z.},
+         giveni={M\bibinitperiod\bibinitdelim Z\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{WJZ+1}
+    \strng{fullhash}{WJZGYWXLWGYHWSYQXSMZ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Tune-a-video: One-shot tuning of image diffusion models for text-to-video generation}
+    \field{journaltitle}{ICCV}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Esser2023StructureAC}{inproceedings}{}
+    \name{author}{5}{}{%
+      {{hash=EP}{%
+         family={Esser},
+         familyi={E\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=CJ}{%
+         family={Chiu},
+         familyi={C\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Atighehchian},
+         familyi={A\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+      {{hash=GJ}{%
+         family={Granskog},
+         familyi={G\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=GA}{%
+         family={Germanidis},
+         familyi={G\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{EP+1}
+    \strng{fullhash}{EPCJAPGJGA1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{booktitle}{ICCV}
+    \field{title}{Structure and content-guided video synthesis with diffusion models}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Molad2023DreamixVD}{article}{}
+    \name{author}{8}{}{%
+      {{hash=ME}{%
+         family={Molad},
+         familyi={M\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=HE}{%
+         family={Horwitz},
+         familyi={H\bibinitperiod},
+         given={E.},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=VD}{%
+         family={Valevski},
+         familyi={V\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=AAR}{%
+         family={Acha},
+         familyi={A\bibinitperiod},
+         given={A.\bibnamedelima R.},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=MY}{%
+         family={Matias},
+         familyi={M\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=PY}{%
+         family={Pritch},
+         familyi={P\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LY}{%
+         family={Leviathan},
+         familyi={L\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=HY}{%
+         family={Hoshen},
+         familyi={H\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ME+2}
+    \strng{fullhash}{MEHEVDAARMYPYLYHY1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Dreamix: Video diffusion models are general video editors}
+    \field{journaltitle}{arXiv:2302.01329}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Zhu2023MoviefactoryAM}{article}{}
+    \name{author}{9}{}{%
+      {{hash=ZJ}{%
+         family={Zhu},
+         familyi={Z\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=YH}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=HH}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=WW}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={W.},
+         giveni={W\bibinitperiod},
+      }}%
+      {{hash=TZ}{%
+         family={Tuo},
+         familyi={T\bibinitperiod},
+         given={Z.},
+         giveni={Z\bibinitperiod},
+      }}%
+      {{hash=CWH}{%
+         family={Cheng},
+         familyi={C\bibinitperiod},
+         given={W.-H.},
+         giveni={W\bibinithyphendelim H\bibinitperiod},
+      }}%
+      {{hash=GL}{%
+         family={Gao},
+         familyi={G\bibinitperiod},
+         given={L.},
+         giveni={L\bibinitperiod},
+      }}%
+      {{hash=SJ}{%
+         family={Song},
+         familyi={S\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=FJ}{%
+         family={Fu},
+         familyi={F\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{ZJ+1}
+    \strng{fullhash}{ZJYHHHWWTZCWHGLSJFJ1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Moviefactory: Automatic movie creation from text using large generative models for language and images}
+    \field{journaltitle}{arXiv:2306.07257}
+    \field{year}{2023}
+  \endentry
+
+  \entry{He2023AnimateAS}{article}{}
+    \name{author}{10}{}{%
+      {{hash=HY}{%
+         family={He},
+         familyi={H\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=XM}{%
+         family={Xia},
+         familyi={X\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=CH}{%
+         family={Chen},
+         familyi={C\bibinitperiod},
+         given={H.},
+         giveni={H\bibinitperiod},
+      }}%
+      {{hash=CX}{%
+         family={Cun},
+         familyi={C\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=GY}{%
+         family={Gong},
+         familyi={G\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=XJ}{%
+         family={Xing},
+         familyi={X\bibinitperiod},
+         given={J.},
+         giveni={J\bibinitperiod},
+      }}%
+      {{hash=ZY}{%
+         family={Zhang},
+         familyi={Z\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=WX}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={X.},
+         giveni={X\bibinitperiod},
+      }}%
+      {{hash=WC}{%
+         family={Weng},
+         familyi={W\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=eaYS}{%
+         prefix={et},
+         prefixi={e\bibinitperiod},
+         family={al.},
+         familyi={a\bibinitperiod},
+         given={Y.\bibnamedelima Shan},
+         giveni={Y\bibinitperiod\bibinitdelim S\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{HY+1}
+    \strng{fullhash}{HYXMCHCXGYXJZYWXWCaYSe1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Animate-a-story: Storytelling with retrieval-augmented video generation}
+    \field{journaltitle}{arXiv:2307.06940}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Guo2023AnimatediffAY}{article}{}
+    \name{author}{7}{}{%
+      {{hash=GY}{%
+         family={Guo},
+         familyi={G\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=YC}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={C.},
+         giveni={C\bibinitperiod},
+      }}%
+      {{hash=RA}{%
+         family={Rao},
+         familyi={R\bibinitperiod},
+         given={A.},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=WY}{%
+         family={Wang},
+         familyi={W\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=QY}{%
+         family={Qiao},
+         familyi={Q\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=LD}{%
+         family={Lin},
+         familyi={L\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{GY+1}
+    \strng{fullhash}{GYYCRAWYQYLDDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Animatediff: Animate your personalized text-to-image diffusion models without specific tuning}
+    \field{journaltitle}{arXiv:2307.04725}
+    \field{year}{2023}
+  \endentry
+
+  \entry{Yang2023ProbabilisticAO}{article}{}
+    \name{author}{6}{}{%
+      {{hash=YM}{%
+         family={Yang},
+         familyi={Y\bibinitperiod},
+         given={M.},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=DY}{%
+         family={Du},
+         familyi={D\bibinitperiod},
+         given={Y.},
+         giveni={Y\bibinitperiod},
+      }}%
+      {{hash=DB}{%
+         family={Dai},
+         familyi={D\bibinitperiod},
+         given={B.},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=SD}{%
+         family={Schuurmans},
+         familyi={S\bibinitperiod},
+         given={D.},
+         giveni={D\bibinitperiod},
+      }}%
+      {{hash=TJB}{%
+         family={Tenenbaum},
+         familyi={T\bibinitperiod},
+         given={J.\bibnamedelima B.},
+         giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+      {{hash=AP}{%
+         family={Abbeel},
+         familyi={A\bibinitperiod},
+         given={P.},
+         giveni={P\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{YM+1}
+    \strng{fullhash}{YMDYDBSDTJBAP1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{title}{Probabilistic adaptation of text-to-video models}
+    \field{journaltitle}{arXiv:2306.01872}
+    \field{year}{2023}
+  \endentry
+
+  \entry{poole2022dreamfusion}{misc}{}
+    \name{author}{4}{}{%
+      {{hash=PB}{%
+         family={Poole},
+         familyi={P\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+      {{hash=JA}{%
+         family={Jain},
+         familyi={J\bibinitperiod},
+         given={Ajay},
+         giveni={A\bibinitperiod},
+      }}%
+      {{hash=BJT}{%
+         family={Barron},
+         familyi={B\bibinitperiod},
+         given={Jonathan\bibnamedelima T.},
+         giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod},
+      }}%
+      {{hash=MB}{%
+         family={Mildenhall},
+         familyi={M\bibinitperiod},
+         given={Ben},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{PB+1}
+    \strng{fullhash}{PBJABJTMB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.48550/arXiv.2209.14988
+    \endverb
+    \verb{eprint}
+    \verb 2209.14988
+    \endverb
+    \field{note}{Submitted on 29 Sep 2022 (v1), last revised version}
+    \field{title}{DreamFusion: Text-to-3D using 2D Diffusion}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2209.14988
+    \endverb
+    \field{eprinttype}{arXiv}
+    \field{eprintclass}{cs.CV}
+    \field{year}{2022}
+  \endentry
+
+  \entry{Inoue2023LayoutDM}{article}{}
+    \name{author}{5}{}{%
+      {{hash=IN}{%
+         family={Inoue},
+         familyi={I\bibinitperiod},
+         given={Naoto},
+         giveni={N\bibinitperiod},
+      }}%
+      {{hash=KK}{%
+         family={Kikuchi},
+         familyi={K\bibinitperiod},
+         given={Kotaro},
+         giveni={K\bibinitperiod},
+      }}%
+      {{hash=SSE}{%
+         family={Simo-Serra},
+         familyi={S\bibinithyphendelim S\bibinitperiod},
+         given={Edgar},
+         giveni={E\bibinitperiod},
+      }}%
+      {{hash=OM}{%
+         family={Otani},
+         familyi={O\bibinitperiod},
+         given={Mayu},
+         giveni={M\bibinitperiod},
+      }}%
+      {{hash=YK}{%
+         family={Yamaguchi},
+         familyi={Y\bibinitperiod},
+         given={Kota},
+         giveni={K\bibinitperiod},
+      }}%
+    }
+    \strng{namehash}{IN+1}
+    \strng{fullhash}{INKKSSEOMYK1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{note}{To be published in CVPR2023}
+    \field{title}{LayoutDM: Discrete Diffusion Model for Controllable Layout Generation}
+    \verb{url}
+    \verb https://doi.org/10.48550/arXiv.2303.08137
+    \endverb
+    \field{journaltitle}{arXiv:2303.08137}
+    \field{year}{2023}
+  \endentry
+\enddatalist
+\endinput

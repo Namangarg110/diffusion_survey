@@ -1,0 +1,77 @@
+\documentclass[12pt]{article}
+
+% Package for page layout
+\usepackage[margin=1in]{geometry}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{algorithm}
+\usepackage{algpseudocode}
+\usepackage{forest}
+\usepackage{adjustbox}
+\definecolor{lightred}{RGB}{255, 204, 203}
+\definecolor{lightgreen}{RGB}{197, 224, 180}
+\definecolor{lightyellow}{RGB}{255, 255, 153}
+
+% Package for double spacing
+\usepackage{setspace}
+\doublespacing
+\setlength{\parskip}{\baselineskip} % Sets paragraph separation to one base line skip
+
+% Package for images
+\usepackage{graphicx}
+
+% Package for bibliography
+\usepackage[backend=bibtex,style=numeric,sorting=none]{biblatex}
+\addbibresource{references.bib} % Your bibliography file
+
+% Package for tables
+\usepackage{tabularx}
+
+\begin{document}
+
+\title{Comprehensive survey on Diffusion Models: From Image generation to 3D NeRF Generation}
+\author{Naman Garg\\
+\small Northwestern University\\
+\small \texttt{namangarg2025@u.northwestern.edu}}
+\date{March 1, 2024}
+\maketitle
+
+\begin{abstract}
+\input{sections/abstract}
+\end{abstract}
+
+\section{Introduction}
+\input{sections/introduction}
+
+\section{PRELIMINARIES OF DIFFUSION MODELS}
+\input{sections/preliminaries}
+
+
+
+
+\section{Guiderails for Constrained Generation}
+\input{sections/guiderails}
+
+\section{Learning New Concept}
+\input{sections/new_concept}
+
+\section{Removing Concept}
+\input{sections/remove_concept}
+
+
+\section{Applications}
+\input{sections/applications}
+
+\section{Future research areas}
+\input{sections/future}
+
+\section{Conclusion}
+\input{sections/conclusion}
+
+
+\section*{References}
+
+\printbibliography[heading=none]
+
+
+\end{document}
